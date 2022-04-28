@@ -1,0 +1,91 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg-green {
+    background-color: #28a745;
+}
+
+.navbar-brand img{
+    width: 86px;
+    height: 25px;
+}
+
+.card-body p:last-of-type span{
+    color: green;
+}
+
+.contacto{
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    font-size: 21px;
+    text-align: center; 
+    background-color:#28A745;
+}
+
+
+.titulo{
+    font-family: 'Roboto', sans-serif;
+    color: #212529;
+    font-size: 20pt;
+    font-weight: 300;
+    text-align: left;
+}
+
+
+.nombre {
+    font-family: 'Roboto', sans-serif;
+    color: #212529;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: left;    
+}
+
+.direccion {
+    font-family: 'Roboto', sans-serif;
+    color: #707070;
+    font-size: 13px;
+    font-weight: 300;
+    text-align: left;   
+}
+
+.precio-uno {
+    font-family: 'Roboto', sans-serif;
+    color: #707070;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: left;   
+}
+
+.precio-dos{
+    font-family: 'Roboto', sans-serif;
+    color: #28a745;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: left;   
+}
+
+.llamado {
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    font-size: 21px;
+    text-align: center;     
+}
+
+.img-footer {
+    width: 84px;
+    height: 24px;
+}
+
+.p-footer {
+    font-family: 'Roboto', sans-serif;
+    color: #707070;
+    font-size: 16px;
+    text-align: center;  
+    background-color: #ffffff;   
+}
+
+footer{
+    background-color: #ffffff;  
+    color: #707070;     
+}
